@@ -44,13 +44,20 @@ Figure 02  Encoder 8 * 3
 4.Create nodes for inputs and outputs to generate the timing diagram.
 5.For different input combinations generate the timing diagram.
 ~~~
+
+~~~
+
+
+Developed by:GURUPARAN G
+RegisterNumber:24001677
+
+~~~
 **PROGRAM**
 
 ![Screenshot 2024-12-26 215915](https://github.com/user-attachments/assets/72d0e202-886a-4c40-a3dc-44184a849e2c)
 
 
 
-Developed by:GURUPARAN G RegisterNumber:24001677
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow**
 
@@ -66,7 +73,7 @@ Developed by:GURUPARAN G RegisterNumber:24001677
 
 
 
-**RESULTS**
+**RESULT**
 
 Thus the code has been executed successfully.
 
